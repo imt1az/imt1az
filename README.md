@@ -9,7 +9,7 @@
   - Open-source contributions  
   - AI/ML research or projects  
 - 📫 How to reach me:  
-  - Email: `your-email@example.com`  
+  - Email: `imtiazemon625@gmail.com`  
   - LinkedIn: [https://www.linkedin.com/in/imtiaz-ahmed-chowdhury-b40179225/]
   - Portfolio: [https://imtiaz-protfolio.web.app/)
 
